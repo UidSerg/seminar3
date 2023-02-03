@@ -1,4 +1,6 @@
  # 3 семинар
 
- ## changes from locl reporsitory
+ ## changes from local repository
  
+ 
+ ## Changes from remote repository
